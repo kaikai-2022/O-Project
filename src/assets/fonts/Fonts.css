@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: url(./EBGaramond12-Regular.ttf)
+}
+
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url(./MontserratAlt1-Black.ttf)
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(./MontserratAlt1-Bold.ttf)
+}
+
+@font-face {
+    font-family: 'Montserrat-Thin';
+    src: url(./MontserratAlt1-Thin.ttf)
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url(./OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url(./OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(./OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'ZillaSlab';
+    src: url(./ZillaSlab-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'ZillaSlab-Light';
+    src: url(./ZillaSlab-Light.ttf);
+}
+
+@font-face {
+    font-family: 'ZillaSlab-Bold';
+    src: url(./ZillaSlab-Bold.ttf);
+}
+
+
+@font-face {
+    font-family:"yousheFont"; 
+    src: url(./优设标题黑_猫啃网.ttf); 
+}
+
+
+@font-face {
+    font-family:"ComicFont"; 
+    src: url(./HeyComic.ttf); 
+}
+
+@font-face {
+    font-family:"JinNianFont"; 
+    src: url(./JinNian.ttf); 
+}
+
+@font-face {
+    font-family:"JingNanFont"; 
+    src: url(./JingNan.otf); 
+}

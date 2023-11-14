@@ -1,2 +1,19 @@
-# O-Project
-团队合作项目管理平台 北航大三暑假小学期软工作业 前端代码
+# project-manager
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
